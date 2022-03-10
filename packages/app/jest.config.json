@@ -1,0 +1,6 @@
+{
+  "testMatch": ["**/_tests/**/*.spec.[jt]s?(x)"],
+  "transform": {
+    "^.+\\.(ts|tsx)$": "ts-jest"
+  }
+}
